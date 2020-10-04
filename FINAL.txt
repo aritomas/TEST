@@ -1,5 +1,4 @@
 alpha
-beta
+
 gamma
-1234
 delta
